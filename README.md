@@ -28,3 +28,5 @@
 <p> No exemplo eu estou abrindo a porta do Minecraft </p>
 
 <p> Para ver se foi ativada com sucesso basta descer um pouco e terá uma lista com as portas abertas, do lado direto abaxio de "<strong>Status</strong>" mostrará "<strong>ACTIVE</strong>", indicado que a porta está aberta. </p>
+
+<p> Não esqueça de criar regras de entrada e saída no Firewall do Windows da sua máquina com a porta que escolheu. </p>
