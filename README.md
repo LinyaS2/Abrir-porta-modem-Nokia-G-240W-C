@@ -4,7 +4,7 @@
 
 <p> Com o atalho WIN + R irá aparecer a janalinha do executar onde você digitará <strong>cmd</strong> e teclar enter </p>
 
-<p> Já no CMD você digita "ipconfig" aqui você poderá ver o **IPv4** que corresponde ao endereço da sua máquina e logo abaixo o <strong>Gateway Padrão</strong>, é com ele que você acessará o Modem. </p>
+<p> Já no CMD você digita "ipconfig" aqui você poderá ver o <strong>IPv4</strong> que corresponde ao endereço da sua máquina e logo abaixo o <strong>Gateway Padrão</strong>, é com ele que você acessará o Modem. </p>
 
 <p> Com o Gateway Padrão em mãos, você vai no seu navegador e ponha ele na barra de pesquisa "Se por acaso aparece algum aviso de segurança, ignore ele e continue" </p>
 
