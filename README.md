@@ -8,6 +8,8 @@
 
 <p> Com o Gateway Padrão em mãos, você vai no seu navegador e ponha ele na barra de pesquisa "Se por acaso aparece algum aviso de segurança, ignore ele e continue" </p>
 
+<h2> Abrindo as Portas do Modem </h2>
+
 <p> E aqui chegamos na página de login do modem "**GPON Home Gateway**" aqui você informa o nome de usuário(Normalmente é userAdmin)  e a senha que lhe foi dada no momento da instalação </p>
 
 <p> Dentro do modem, navegue em </p>
