@@ -1,0 +1,1 @@
+# Abrir-porta-modem-Nokia-G-240W-C
