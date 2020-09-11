@@ -2,7 +2,7 @@
 
 <h1> Identificando o ip do seu modem </h1>
 
-<p> Com o atalho WIN + R irá aparecer a janalinha do executar onde você digitará "cmd" e teclar enter </p>
+<p> Com o atalho WIN + R irá aparecer a janalinha do executar onde você digitará **cmd** e teclar enter </p>
 
 <p> Já no CMD você digita "ipconfig" aqui você poderá ver o **IPv4** que corresponde ao endereço da sua máquina e logo abaixo o **Gateway Padrão**, é com ele que você acessará o Modem. </p>
 
@@ -10,7 +10,7 @@
 
 <h2> Abrindo as Portas do Modem </h2>
 
-<p> E aqui chegamos na página de login do modem "**GPON Home Gateway**" aqui você informa o nome de usuário(Normalmente é userAdmin)  e a senha que lhe foi dada no momento da instalação </p>
+<p> E aqui chegamos na página de login do modem **GPON Home Gateway** aqui você informa o nome de usuário(Normalmente é userAdmin)  e a senha que lhe foi dada no momento da instalação </p>
 
 <p> Dentro do modem, navegue em </p>
 
